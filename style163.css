@@ -1,0 +1,229 @@
+@import url(base.css);
+
+
+body{
+    
+    font-size:16px;
+    background:#fff;
+    margin:0 auto;
+    position: relative;
+}
+a:hover{
+    color:#eb3d36;   
+}
+p{
+    font-size:16px;
+    line-height: 26px;
+    color:#222121;
+}
+h1{
+    color:#fff;
+    font-weight: normal;
+}
+h2{
+    color:#2e2e2e;
+}
+
+
+.container{
+    width:1000px;
+}
+
+
+.cm .banner{ 
+    height:230px;
+    background: url(../fuli/banner.jpg) center top  no-repeat;
+    background-size:100% 100%;
+    text-align: center;
+    padding-top: 20px;
+}
+.cm .content{
+    background:#1b1b1b;
+    padding-top:78px;
+}
+
+.cm .content .title{
+    font-size:23px;
+    text-align: center;
+    line-height: 40px;
+    margin-bottom: 80px;
+}
+.cm .content .title span{
+    display:inline-block;
+    vertical-align: top;
+}
+.cm .content .title h1{
+    display:inline-block;
+    font-size:48px;
+    line-height: 40px;
+    height:40px;
+    margin-right:30px;
+    position: relative;
+    top:4px;
+    padding-right:5px;
+    border-right:1px solid #8b8b8b;
+}
+
+.cm .circle_block_group .block{
+    width: 166px;
+    height:140px;
+    border-radius: 50%;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -khtml-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    display:inline-block;
+    margin:0px 15px;
+    background:#fff;
+    float:left;
+    padding-top:26px;
+
+}
+.cm .circle_block_group .block p{
+    text-align: center;
+}
+.cm .circle_block_group .block.redbg p{
+    color:#fff;
+}
+
+.cm .circle_block_group .block.redbg,.cm .support p i.redbg{
+    background:#eb3d36;
+}
+
+.cm .support{
+	 padding-bottom:26px;
+    background:url(../fuli/a1.png) left bottom no-repeat;
+}
+
+.cm .support p{
+    font-size: 16px;
+    color:#aeacac;
+    line-height: 40px;
+}
+.cm .support p i{
+    display:inline-block;
+    width:6px;
+    height:6px;
+    border-radius: 50%;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -khtml-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    background: #fff;
+    margin-right: 10px;
+}
+.cm .support .request{
+    width:440px;
+	
+    margin-left:520px;
+	padding-bottom:18px;
+}
+
+.cm .websites{
+    background:#363638;
+    padding-top:69px;
+    padding-bottom: 60px;
+}
+.cm .websites h1{
+    font-size:23px;
+    text-align: center;
+    margin-bottom: 24px;
+}
+
+.cm .websites .right{
+    width:410px;
+}
+.cm .websites .left{
+    width:530px;
+}
+.cm .websites .left .txt{
+    width:240px;
+    float: right;
+    padding-top:110px;
+
+}
+.cm .websites .left h1{
+    font-size:30px;
+    line-height: 40px;
+}
+
+.cm .websites .left p{
+    color:#aeacac;
+}
+
+.common_table{
+    width:100%;
+    table-layout: fixed;
+    color:#aeacac;
+    line-height: 40px;
+    border:1px solid #494848;
+}
+.common_table td{
+    border:1px solid #494848;
+    padding:0px 20px;
+}
+
+.cm .congradulation{
+    height:60px;
+    background:#2c2c2d;
+    line-height: 60px;
+    text-align: center;
+    border-top:2px solid #545358;
+    border-bottom:2px solid #545358;
+}
+.cm .congradulation h1{
+    font-size:23px;
+}
+.cm .congradulation img{
+    margin:0 10px;
+    vertical-align: top;
+    position: relative;
+    top:12px;
+}
+.cm .footer{
+    height:230px;
+    background:#1B1B1B url(../fuli/city.jpg) center bottom no-repeat;
+    text-align: center;
+    color:#fff;
+    line-height: 82px;
+    width: 100%;
+    text-align: center;
+     position: relative;
+
+}
+.cm .footer h1{
+    font-size:18px;
+    margin-bottom: 10px;
+    height:30px;
+    line-height: 30px;
+   
+
+}
+.cm .footer .copyright{
+    position: absolute;
+    bottom:20px;
+    width: 100%;
+    left:0px;
+}
+.cm .footer p{
+    text-align: center;
+    color:#fff;
+}
+.mt2{
+    margin-top:20px;
+}
+.mt4{
+    margin-top:40px;
+}
+.mt8{
+    margin-top:80px;
+}
+
+.right{
+    float: right;
+}
+.left{
+    float: left;
+}
