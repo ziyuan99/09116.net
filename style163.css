@@ -32,7 +32,7 @@ h2{
 
 .cm .banner{ 
     height:230px;
-    background: url(../fuli/banner.jpg) center top  no-repeat;
+    background: url(http://www.09116.net/banner.jpg) center top  no-repeat;
     background-size:100% 100%;
     text-align: center;
     padding-top: 20px;
@@ -93,7 +93,7 @@ h2{
 
 .cm .support{
 	 padding-bottom:26px;
-    background:url(../fuli/a1.png) left bottom no-repeat;
+    background:url(http://www.09116.net/a1.png) left bottom no-repeat;
 }
 
 .cm .support p{
@@ -184,7 +184,7 @@ h2{
 }
 .cm .footer{
     height:230px;
-    background:#1B1B1B url(../fuli/city.jpg) center bottom no-repeat;
+    background:#1B1B1B url(http://www.09116.net/city.jpg) center bottom no-repeat;
     text-align: center;
     color:#fff;
     line-height: 82px;
