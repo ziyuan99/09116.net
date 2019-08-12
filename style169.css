@@ -32,7 +32,7 @@ h2{
 
 .cm .banner{ 
     height:230px;
-    background: url(../city.jpg) center top  no-repeat;
+    background: url(../banner.jpg) center top  no-repeat;
     background-size:100% 100%;
     text-align: center;
     padding-top: 20px;
@@ -93,7 +93,7 @@ h2{
 
 .cm .support{
 	 padding-bottom:26px;
-    background:url(../city.jpg) left bottom no-repeat;
+    background:url(../a1.png) left bottom no-repeat;
 }
 
 .cm .support p{
